@@ -1,6 +1,10 @@
 code change
 <bash>
 profit
-- gray mushrooms
 ++ double pepperoni
-+ Thin crust. Skinny it up
+
+Lots of cheese
+maybe goat
+some feta
+bacon always
+and pineapple
