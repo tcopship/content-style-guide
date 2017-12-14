@@ -1,6 +1,5 @@
 code change
 <bash>
 profit
-- gray mushrooms
 ++ double pepperoni
-+ Thin crust. Skinny it up
+
